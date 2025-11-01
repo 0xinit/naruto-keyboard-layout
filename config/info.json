@@ -382,14 +382,14 @@
           "col": 9,
           "x": 12.5,
           "y": 5,
-          "label": "RCTL"
+          "label": "Up"
         },
         {
           "row": 4,
           "col": 10,
           "x": 13.5,
           "y": 5,
-          "label": "]}"
+          "label": "Down"
         },
         {
           "row": 4,
@@ -403,14 +403,14 @@
           "col": 12,
           "x": 15.5,
           "y": 5,
-          "label": "Down"
+          "label": "]}"
         },
         {
           "row": 4,
           "col": 13,
           "x": 16.5,
           "y": 5,
-          "label": "Up"
+          "label": "MO(3)"
         },
         {
           "row": 5,
